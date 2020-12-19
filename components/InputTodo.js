@@ -46,7 +46,8 @@ const styles = StyleSheet.create({
   },
   botaoTodo: {
     backgroundColor: '#8B10AE',
-    padding: 10
+    padding: 10,
+    marginTop: 5
   },
   botaoTexto: {
     color: '#fff',
